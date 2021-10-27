@@ -2,6 +2,7 @@
 
 using namespace std;
 
+//proba za git
 //program funkcije za citanje, ispisivanje i unistavanje jednostruke liste celih brojeva
 //glavna funkcija ispituje prethodne funkcije 
 
